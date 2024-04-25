@@ -2,19 +2,22 @@
 scrap/
 
 # Developer Files
-dev/
+dev/*
 
 # Data Raw 
-data/raw/
+data/raw/*
+!data/raw/.gitkeep
 # Data Processed
 
-data/processed/
+data/processed/*
+!data/processed/.gitkeep
 
 # Log Dir
-logs/**
+logs/*
+!logs/.gitkeep
 
-# Documents
-documents/**
+# Documents and References
+documents/*
 
 # Environments
 .venv
