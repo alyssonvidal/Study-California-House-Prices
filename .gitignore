@@ -1,8 +1,8 @@
 # Scrap
-scrap/
+scrap/**
 
 # Developer Files
-dev/*
+dev/**
 
 # Data Raw 
 data/raw/*
@@ -13,11 +13,11 @@ data/processed/*
 !data/processed/.gitkeep
 
 # Log Dir
-logs/*
+logs/** */
 !logs/.gitkeep
 
 # Documents and References
-documents/*
+documents/**
 
 # Environments
 .venv
