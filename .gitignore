@@ -1,6 +1,9 @@
 # Scrap
 scrap/
 
+# Developer Files
+dev/
+
 # Data Raw 
 data/raw/
 # Data Processed

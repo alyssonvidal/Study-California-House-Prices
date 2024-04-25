@@ -1,6 +1,6 @@
 # King County House Prices
 
-![1](/images/city.jpg "Image Title")
+<a href="https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"><img src="https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="drawing" width="400"/>
 
 
 ## Problem Statment
