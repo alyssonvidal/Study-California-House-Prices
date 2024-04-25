@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "kc-house-prices"
+version = "0.1.0"
+description = ""
+authors = ["alyssonvidal <alyssonmach@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+numpy = "^1.26.4"
+matplotlib = "^3.8.4"
+scikit-learn = "^1.4.2"
+lightgbm = "^4.3.0"
+xgboost = "^2.0.3"
+optuna = "^3.6.1"
+shap = "^0.45.0"
+folium = "^0.16.0"
+seaborn = "^0.13.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
